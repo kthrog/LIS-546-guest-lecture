@@ -1,6 +1,6 @@
 # Beyond Data Standards: Guest Lecture for LIS 546 (Spring 2021)
 
-## Talk Outline 
+## Talk Outline ([Download slides](https://github.com/kthrog/LIS-546-guest-lecture/blob/main/files/LIS-546-beyondDataStandards-guest-lecture-SLIDES.pdf) | [See slides on Canva](https://www.canva.com/design/DAEaTIz5QL0/odw-F4t4Pntrlvf07D_ZNg/view?utm_content=DAEaTIz5QL0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 1. Intro (Slide 1)
 2. Outcomes (Slide 2)
@@ -15,7 +15,7 @@
 11. Reflection Questions (Slide 24)
 12. References, Resources, Workflow Tools, Learning Lab & Activities, How to Contact Me, Job Openings at Sage (Slides 25-30)
 
-## Notes & Rough Script
+## Notes & Rough Script (Download recording | View recording on Canva)
 
 1. Intro
 2. Desired outcomes of mini lecture: 
