@@ -1,6 +1,6 @@
 # Resources from Slides
 
-## Bioinformatics Resources
+## Bioinformatics Resources:
 
 **Genomics, in general, to better understand parts of the lecture:**
 - [A Gentle Introduction to RNA-Seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) | StatQuest | YouTube
@@ -11,7 +11,7 @@
 - [Biostars](https://www.biostars.org) | A bioinformatics forum
 - [OMGenomics](https://www.youtube.com/channel/UCG4kmWK8UyzfenZ60xVBapw) | YouTube channel about bioinformatics
 
-## Workflow Tools & Bash Resources
+## Workflow Tools & Bash Resources:
 
 **Languages & Tools:**
 - [Common Workflow Language (CWL)](https://www.commonwl.org/) + [CWL User Guide](https://www.commonwl.org/user_guide/)
