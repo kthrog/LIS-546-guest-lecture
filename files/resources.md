@@ -10,6 +10,8 @@
 - [Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics) | Coursera
 - [Biostars](https://www.biostars.org) | A bioinformatics forum
 - [OMGenomics](https://www.youtube.com/channel/UCG4kmWK8UyzfenZ60xVBapw) | YouTube channel about bioinformatics
+- _The Social Life of DNA: Race, Reparations, and Reconciliation After the Genome_ | Alondra Nelson (ISBN: 978-0807033029)
+- _A Brief History of Everyone Who Ever Lived: The Human Story Retold Through Our Genes_ | Adam Rutherford (ISBN: 978-1615194186)
 
 ## Workflow Tools & Bash Resources:
 
@@ -25,11 +27,16 @@
 - Kade Killary, Medium | [Command Line Tricks for Data Scientists](https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da)
 
 ## Learning Lab:
+**Access open biomedical data and try out programmatic clients with Synapse:**
 - [Synapse](https://www.synapse.org/)* | [Docs](https://docs.synapse.org/) + [Clients](https://docs.synapse.org/articles/api_documentation.html)
 
 **Data portals built on Synapse:**
 - [Alzheimer's Disease Data Portal](https://adknowledgeportal.synapse.org/)
 - [Neurofibromatosis Data Portal](https://nf.synapse.org/)
+
+**Or: document your own data curation workflow for your class project:**
+- Identify a part of your project that has a series of steps that could be repeated by someone else and document them
+- Work with a partner to ensure its repeatable for and sensible to someone other than yourself!
 
 ## References:
 
@@ -43,11 +50,11 @@ Gertner, J. (2021). Unlocking the COVID Code. New York Times. https://www.nytime
 
 Mallawaarachchi, V. (2018). Bioinformatics Workflow Management Systems. Towards Data Science. https://towardsdatascience.com/bioinformatics-workflow-management-systems-cc3edd97be79
 
+Starmer, J. (2017). A gentle introdution to RNA-seq. StatQuest. https://www.youtube.com/watch?v=tlf6wYJrwKY
+
 ## Thanks to, acknowledgements, & disclosure:
 Bruno Grande, who answered some of my questions about bioinformatics workflows.
 
 Also, to Canva and Unsplash.
 
 *_Disclosure_: I work at Sage Bionetworks, which created and maintains Synapse.
-
-
