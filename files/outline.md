@@ -2,18 +2,18 @@
 
 ## Talk Outline 
 
-1. Intro
-2. Outcomes
-3. What's a workflow?
-4. An everyday example: making coffee (inputs and outputs, and outputs that become inputs)
-5. An actual definition
-6. A real-world example: next-generation sequencing (NGS) and a brief intro to bioinformatics
-7. The processing steps of sequencing (and why workflows are needed)
-8. A crash-course of bioinformatics workflows
-9. But, what if I don't care about bioinformatics of NGS?
-10. 5 Ways Workflows Apply to Data Curation, Anyway
-11. Reflection Questions
-12. References, Resources, Workflow Tools, Learning Lab, How to Contact Me
+1. Intro (Slide 1)
+2. Outcomes (Slide 2)
+3. What's a workflow? (Slides 3-5)
+4. An everyday example: making coffee (inputs and outputs, and outputs that become inputs) (Slides 6-7)
+5. Workflow: an actual definition (Slides 8-9)
+6. A real-world example: next-generation sequencing (NGS) and a brief intro to bioinformatics (Slides 10-12)
+7. The processing steps of sequencing (and why workflows are needed) (Slide 13)
+8. A crash-course on bioinformatics workflows (Slide 14)
+9. But, what if I don't care about bioinformatics or NGS? (Slide 15)
+10. 5 Ways Workflows Apply to Data Curation (Slides 16-20)
+11. Reflection Questions (Slide 21)
+12. References, Resources, Workflow Tools, Learning Lab, How to Contact Me (Slides 22-26)
 
 ## Rough Script
 
