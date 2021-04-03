@@ -2,11 +2,11 @@
 
 ## Bioinformatics Resources
 
-**Genomics in general, to better understand parts of the lecture:**
+**Genomics, in general, to better understand parts of the lecture:**
 - [A Gentle Introduction to RNA-Seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) | StatQuest | YouTube
 - [_The Gene: An Intimate History_](https://www.youtube.com/watch?v=tlf6wYJrwKY) | Siddhartha Mukherjee (ISBN: 978-1432837815)
 
-**In general:**
+**Bioinformatics, in general:**
 - [Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics) | Coursera
 - [Biostars](https://www.biostars.org) | A bioinformatics forum
 - [OMGenomics](https://www.youtube.com/channel/UCG4kmWK8UyzfenZ60xVBapw) | YouTube channel about bioinformatics
@@ -48,6 +48,6 @@ Bruno Grande, who answered some of my questions about bioinformatics workflows.
 
 Also, to Canva and Unsplash.
 
-_Disclosure_: I work at Sage Bionetworks, which created and maintains Synapse.
+*_Disclosure_: I work at Sage Bionetworks, which created and maintains Synapse.
 
 
