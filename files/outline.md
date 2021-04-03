@@ -16,7 +16,7 @@
 11. Reflection Questions (Slide 24)
 12. References, Resources, Workflow Tools, Learning Lab & Activities, How to Contact Me, Job Openings at Sage (Slides 25-30)
 
-## Notes & Rough Script ([Download recording]() | [View recording on Canva](https://www.canva.com/design/DAEaTIz5QL0/odw-F4t4Pntrlvf07D_ZNg/view?utm_content=DAEaTIz5QL0&utm_campaign=designshare&utm_medium=link&utm_source=recording_view))
+## Notes & Rough Script ([Download recording](https://github.com/kthrog/LIS-546-guest-lecture/blob/main/files/LIS-546-beyondDataStandards-guest-lecture-AUDIOonly.m4a) | [View recording (with both audio and video) on Canva](https://www.canva.com/design/DAEaTIz5QL0/odw-F4t4Pntrlvf07D_ZNg/view?utm_content=DAEaTIz5QL0&utm_campaign=designshare&utm_medium=link&utm_source=recording_view))
 
 1. Intro
 2. Desired outcomes of mini lecture: 
